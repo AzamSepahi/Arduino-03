@@ -9,7 +9,7 @@ void setup() {
 
 void loop() {
   int i, a;
-  int dancinglight[8][8] = {
+  int dancinglight[4][4] = {
   {0,0,0,1},
   {0,0,1,0},
   {0,1,0,0},
