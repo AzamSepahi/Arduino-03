@@ -29,6 +29,6 @@
 ## عملکرد مدار ها
 
  > ![blink_circit](/MEDIA/dancinglight001.gif)
----
+ > ---
  > ![blink_circit](/MEDIA/dancinglight002.gif)   
 
